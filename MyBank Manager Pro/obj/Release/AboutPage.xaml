@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="MyBank_Manager_Pro.AboutPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MyBank_Manager_Pro"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="Gridos">
+        <StackPanel Orientation="Vertical" Margin="10,101,-10,-101">
+            <Grid>
+                <TextBlock Margin="0,0,22,0" TextWrapping="Wrap" Text="My Bank Manager Pro was created in part by the greatest minds in the universe. Think Marie Curie, Albert Einstein, and Bill Cosby, all working together under one political party. That's how big this app is. If you don't completely understand, then I'm sorry. There is nothing we can do to explain it to you. You are a foolish mortal who understands NOTHING." VerticalAlignment="Top" FontSize="17" RenderTransformOrigin="0.515,0.488"/>
+            </Grid>
+            <Grid>
+                <TextBlock HorizontalAlignment="Left" Margin="0,30,0,0" TextWrapping="Wrap" Text="Coded by Ryan Thomas of Eden Inc." VerticalAlignment="Bottom" FontSize="17" RenderTransformOrigin="0.5,0.5"/>
+            </Grid>
+        </StackPanel>
+      
+        <StackPanel Orientation="Vertical" Margin="0,10,0,-10">
+            <Grid/>
+            <Grid/>
+            <TextBlock TextWrapping="Wrap" Text="about" FontSize="68"/>
+           
+        </StackPanel>
+ <Button Content="Return to App" x:Name="ReturnApp" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="10,335,251,242" Width="140" Height="63"/>
+    </Grid>
+</Page>
+

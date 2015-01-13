@@ -1,0 +1,39 @@
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Debug\App.xbf
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Debug\MainPage.xbf
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Debug\MyBank Manager Pro.xr.xml
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Debug\MyBank Manager Pro.exe
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Debug\MyBank Manager Pro.pdb
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Debug\MyBank_Manager_Pro.xml
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Debug\resources.pri
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Debug\AppxManifest.xml
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Debug\MyBank Manager Pro.build.appxrecipe
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\App.g.i.vb
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\App.g.vb
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\MainPage.g.i.vb
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\MainPage.g.vb
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\XamlTypeInfo.g.vb
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\App.xaml
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\MainPage.xaml
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\App.xbf
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\MainPage.xbf
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\XamlSaveStateFile.xml
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\MyBank Manager Pro.exe
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\MyBank_Manager_Pro.xml
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\MyBank Manager Pro.pdb
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\priconfig.xml
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\priconfig.xml.intermediate
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\layout.resfiles
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\layout.resfiles.intermediate
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\resources.resfiles
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\resources.resfiles.intermediate
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\pri.resfiles
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\pri.resfiles.intermediate
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\qualifiers.txt
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\qualifiers.txt.intermediate
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Debug\AboutPage.xbf
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\AboutPage.g.i.vb
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\AboutPage.g.vb
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\AboutPage.xaml
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Debug\AboutPage.xbf

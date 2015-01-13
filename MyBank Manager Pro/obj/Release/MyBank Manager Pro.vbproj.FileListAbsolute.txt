@@ -1,0 +1,39 @@
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Release\App.xbf
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Release\AboutPage.xbf
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Release\MainPage.xbf
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Release\MyBank Manager Pro.xr.xml
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Release\MyBank Manager Pro.exe
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Release\MyBank Manager Pro.pdb
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Release\MyBank_Manager_Pro.xml
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Release\resources.pri
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Release\AppxManifest.xml
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Release\MyBank Manager Pro.build.appxrecipe
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\App.g.i.vb
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\App.g.vb
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\AboutPage.g.i.vb
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\AboutPage.g.vb
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\MainPage.g.i.vb
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\MainPage.g.vb
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\XamlTypeInfo.g.vb
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\App.xaml
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\App.xbf
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\XamlSaveStateFile.xml
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\AboutPage.xaml
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\MainPage.xaml
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\AboutPage.xbf
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\MainPage.xbf
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\MyBank Manager Pro.exe
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\MyBank_Manager_Pro.xml
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\MyBank Manager Pro.pdb
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\priconfig.xml
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\priconfig.xml.intermediate
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\layout.resfiles
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\layout.resfiles.intermediate
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\resources.resfiles
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\resources.resfiles.intermediate
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\pri.resfiles
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\pri.resfiles.intermediate
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\qualifiers.txt
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\qualifiers.txt.intermediate
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\ProjectArchitectures.txt

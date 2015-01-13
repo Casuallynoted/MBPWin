@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-TDN9395QOJI</Machine>
+    <WindowsUser>Ryan</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3667d792-8cf4-4a8e-a314-b7996a0f202d</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Release\MyBank Manager Pro.exe">
+      <PackagePath>MyBank Manager Pro.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Release\AboutPage.xbf">
+      <PackagePath>AboutPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Release\MyBank Manager Pro.xr.xml">
+      <PackagePath>MyBank Manager Pro.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan\documents\visual studio 2013\Projects\MyBank Manager Pro\MyBank Manager Pro\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
